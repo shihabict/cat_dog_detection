@@ -1,0 +1,6 @@
+path: /home/shihab/my_projects/dog_cat_detection/dataset
+train: cat-dog-recongnition-1/train
+val: cat-dog-recongnition-1/valid
+names:
+  0: cat
+  1: dog

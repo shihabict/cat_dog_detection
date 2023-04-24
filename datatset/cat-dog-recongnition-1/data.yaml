@@ -1,0 +1,13 @@
+names:
+- cat
+- dog
+nc: 2
+roboflow:
+  license: CC BY 4.0
+  project: cat-dog-recongnition
+  url: https://universe.roboflow.com/md-shihab-uddin-dm12b/cat-dog-recongnition/dataset/1
+  version: 1
+  workspace: md-shihab-uddin-dm12b
+test: test/images
+train: train/images
+val: valid/images
